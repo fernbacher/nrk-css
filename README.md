@@ -1,5 +1,5 @@
 # nrk-css
-css for discord
+css for discord made by NRK
 * {
     font-family:"Jetbrains Mono Medium" !important;
     font-size:13.2px !important;
